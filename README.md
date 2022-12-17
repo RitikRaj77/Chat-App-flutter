@@ -1,7 +1,7 @@
-# chat_app
+# Title: One To One Chat App
 
 A new Flutter project.
-# Output
+# output
 
 <img src="https://user-images.githubusercontent.com/53346391/181738197-ea34c68c-6d76-4d5a-94f8-07a781ff2017.jpeg" width="370"  hspace="20" vspace="30">   <img src="https://user-images.githubusercontent.com/53346391/181738292-98a3765a-b839-41ee-8ec1-4a02fd89886c.jpeg" width="370"  hspace="20" vspace="30">
 
